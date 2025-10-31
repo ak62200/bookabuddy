@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146024581439",
+    "project_id": "bookabuddyadmin",
+    "storage_bucket": "bookabuddyadmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146024581439:android:3416a09288896c1fa12b8a",
+        "android_client_info": {
+          "package_name": "com.grow4dreams.bookabuddyadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UshJIGBpC6nZzXEmlYuinc1h6tYVmdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
